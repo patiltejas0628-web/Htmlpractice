@@ -23,7 +23,7 @@
 }
 
 .div2 {
-    border: 2px solid black;
+    /* border: 2px solid black; */
     height: 200px;
     width: 300px;
     display: flex;
